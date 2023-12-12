@@ -1,0 +1,1 @@
+<?php if(!defined('RUN_MODE')) die();?><div class='col' data-grid='12'><style></style></div>
